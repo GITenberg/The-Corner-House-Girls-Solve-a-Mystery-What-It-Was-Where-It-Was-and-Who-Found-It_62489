@@ -7,12 +7,17 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '32061'
     url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: archival
+  image_path: 62489-h/images/cover.jpg
 creator:
   author:
     agent_name: Hill, Grace Brooks
     gutenberg_agent_id: '9684'
     url: http://www.gutenberg.org/2009/agents/9684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62489#The-Corner-House-Girls-Solve-a-Mystery-What-It-Was-Where-It-Was-and-Who-Found-It
 gutenberg_issued: '2020-06-26'
 gutenberg_type: Text
 identifiers:
